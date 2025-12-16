@@ -197,4 +197,3 @@ src="https://picsum.photos/800/400?rando m=6" alt="Programming Article 3">
     </script>
 </body>
 </html>
-
